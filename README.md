@@ -11,9 +11,9 @@
   Passionate and dedicated to building scalable, efficient web applications that solve real-world problems.<br>
 
   **🔮 Running Activities:**
- **Mastering** advanced Next.js and TypeScript patterns for enterprise-grade applications
- **Exploring** AI integration in web development to build smarter user experiences
- **Contributing** to open-source projects that solve real-world development challenges
+- **Mastering** advanced Next.js and TypeScript patterns for enterprise-grade applications
+- **Exploring** AI integration in web development to build smarter user experiences
+- **Contributing** to open-source projects that solve real-world development challenges
 </p>
 
 
