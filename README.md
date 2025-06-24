@@ -9,8 +9,11 @@
 
 <p align="center">
   Passionate Full-Stack Developer with expertise in JavaScript and MERN stack.<br>
-  Dedicated to building scalable, efficient web applications that solve real-world problems.<br>
-  Constantly learning and adapting to new technologies in the ever-evolving web landscape.
+
+  **🔮 Running Activities:**
+- **Mastering** advanced Next.js and TypeScript patterns for enterprise-grade applications
+- **Exploring** AI integration in web development to build smarter user experiences
+- **Contributing** to open-source projects that solve real-world development challenges
 </p>
 
 
