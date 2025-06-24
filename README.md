@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# Hi there, I'm [Your Name] 👋  
+### Web Developer | [Your Location] | [your.email@example.com]
+
+![Banner Image](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)  
+*(Replace with actual banner image URL)*
+
+---
+
+
 <!--
 **Riadul-Hasan/Riadul-Hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
