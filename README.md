@@ -8,7 +8,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Passionate Full-Stack Developer with expertise in JavaScript and MERN stack.<br>
+  Passionate Full-Stack Developer with expertise in JavaScript and MERN stack. Dedicated to building scalable, efficient web applications that solve real-world problems.<br>
 
   **🔮 Running Activities:**
 - **Mastering** advanced Next.js and TypeScript patterns for enterprise-grade applications
