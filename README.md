@@ -1,4 +1,4 @@
-div align="center">
+div align="center" style="font-family: 'Poppins', sans-serif;">
   <!-- Dynamic Banner with Gradient Overlay -->
   <img src="https://github.com/Riadul-Hasan/Riadul-Hasan/assets/74038190/041b9eca-4d0e-4e3a-9ea2-3a0e1db1e4a3" alt="Riadul Hasan Banner" width="100%"/>
   
@@ -23,6 +23,20 @@ div align="center">
 </div>
 
 ---
+
+
+<!-- CSS for Poppins -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Poppins', sans-serif !important;
+  }
+  h1, h2, h3, h4 {
+    font-family: 'Poppins', sans-serif !important;
+  }
+</style>
+
+
 
 ## 🛠️ Professional Skills Matrix
 
