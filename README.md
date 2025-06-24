@@ -119,16 +119,15 @@
 - 💳 Stripe Payments
 
 ---
+## 🤝 Let's Collaborate!
 
-### ✅ [English Janala](https://github.com/Riadul-Hasan/English-Janala)
-**Stack:** React, Firebase, Material UI  
-**Live Demo:** [taskapp.demo.com](https://taskapp.demo.com)
+I'm always open to exciting new opportunities, collaborations, or just a friendly tech chat.  
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/riad-hasan-6b954a2b8) or drop me an email at **riadb468@gmail.com**.
 
----
+> "Let's build something impactful together."
 
-### 📊 [Social Media Dashboard](https://github.com/Riadul-Hasan/social-dashboard)
-**Stack:** Next.js, TypeScript, Tailwind CSS  
-**Live Demo:** [social.demo.com](https://social.demo.com)
+Thanks for visiting my profile! 🚀  
+Don't forget to ⭐ star your favorite repos and follow me for updates. 😊
 
 ---
 
