@@ -109,7 +109,7 @@
 ## 🔥 Featured Projects
 
 ### 📦 [Gardenify With Authentication](https://github.com/Riadul-Hasan/Gardenify)
-![Project Screenshot](https://i.ibb.co/whhwVvDZ/ss.png)
+
 
 **Stack:** MERN (MongoDB, Express, React, Node.js)  
 **Features:**
