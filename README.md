@@ -127,7 +127,7 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/riad-hasan-6b
 > "Let's build something impactful together."
 
 Thanks for visiting my profile! 🚀  
-Don't forget to ⭐ star your favorite repos and follow me for updates. 😊
+
 
 ---
 
