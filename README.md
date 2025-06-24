@@ -1,87 +1,129 @@
 <div align="center">
-  <!-- Banner with your name -->
-  <img src="https://github.com/Riadul-Hasan/Riadul-Hasan/assets/74038190/041b9eca-4d0e-4e3a-9ea2-3a0e1db1e4a3" alt="Riadul Hasan Banner" width="100%" />
-  
-  <!-- Name and headline -->
-  <h1>Riadul Hasan</h1>
-  <h3>📍 Dhaka, Bangladesh | 📧 riadb468@gmail.com</h3>
-  <h3>Full Stack Developer | JavaScript Specialist | Problem Solver</h3>
-  
-  <!-- Social links -->
-  <p>
-    <a href="https://linkedin.com/in/riad-hasan-6b954a2b8" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/Riadul-Hasan" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://facebook.com/riad.hasan.39142072" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-    </a>
-    <a href="mailto:riadb468@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+
+<img src="https://github.com/Riadul-Hasan/Riadul-Hasan/assets/74038190/041b9eca-4d0e-4e3a-9ea2-3a0e1db1e4a3" alt="Riadul Hasan Banner" width="100%" />
+
+<h1>Hi 👋, I'm Riadul Hasan</h1>
+<h3>🚀 Full Stack Developer | JavaScript Enthusiast | Problem Solver</h3>
+
+---
+
+### 📫 Connect with Me
+
+<a href="https://linkedin.com/in/riad-hasan-6b954a2b8" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:riadb468@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://facebook.com/riad.hasan.39142072" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://your-portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ My Tech Stack
 
-I'm a passionate Full Stack Developer with 4+ years of experience building robust web applications. My expertise lies in JavaScript technologies across the entire stack (MERN). I thrive on solving complex problems and creating efficient, scalable solutions with clean code.
+### 💻 Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 
-**Current Focus:**
-- 🚀 Building a tourism management platform with Next.js
-- 🔍 Exploring advanced TypeScript patterns
-- ⚡ Optimizing React performance in large-scale applications
-- 🌱 Learning GraphQL for API development
+### 🧠 Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat-square)
+
+### 🧑‍💻 Programming Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=flat-square)
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 Career Highlights
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- ✅ 4+ Years of hands-on development experience
+- 🌟 Built 15+ production-ready full-stack projects
+- 💼 98% Client Satisfaction on freelance platforms
+- 🔍 Focused on React & Node.js performance optimization
+- 🤝 Contributed to 3 open-source projects
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Riadul-Hasan&show_icons=true&theme=radical&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Riadul-Hasan&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Riadul-Hasan&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Riadul-Hasan&theme=radical&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riadul-Hasan&theme=react-dark&hide_border=true&area=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riadul-Hasan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>
 
 ---
 
-## 🏆 Recent Projects
+## 🏆 Achievements
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Tourism Management](https://github.com/Riadul-Hasan/tourism-app)** | Booking platform for travel agencies | React, Node.js, MongoDB |
-| **[E-commerce Dashboard](https://github.com/Riadul-Hasan/ecom-dashboard)** | Admin panel for online stores | Next.js, TypeScript, Firebase |
-| **[Task Manager](https://github.com/Riadul-Hasan/task-manager-pro)** | Productivity app with team collaboration | MERN Stack, JWT Auth |
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Riadul-Hasan&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="Trophies" />
+</div>
 
 ---
+
+## 🔥 Featured Projects
+
+### 📦 [E-Commerce Platform](https://github.com/Riadul-Hasan/ecommerce-platform)
+![Project Screenshot](https://via.placeholder.com/600x350/1e293b/ffffff?text=E-Commerce+Screenshot)
+
+**Stack:** MERN (MongoDB, Express, React, Node.js)  
+**Features:**
+- 🛒 Cart & Checkout
+- 🔐 JWT Auth
+- 📊 Admin Dashboard
+- 💳 Stripe Payments
+
+---
+
+### ✅ [Task Management App](https://github.com/Riadul-Hasan/task-manager)
+**Stack:** React, Firebase, Material UI  
+**Live Demo:** [taskapp.demo.com](https://taskapp.demo.com)
+
+---
+
+### 📊 [Social Media Dashboard](https://github.com/Riadul-Hasan/social-dashboard)
+**Stack:** Next.js, TypeScript, Tailwind CSS  
+**Live Demo:** [social.demo.com](https://social.demo.com)
+
+---
+
+## 💡 Development Philosophy
+
+> _"Clean code is not written by following rules, it's written by experience and constant refinement."_  
+> — *Inspired by Robert C. Martin*
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Riadul-Hasan&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
-  <p>🔍 Open to exciting opportunities!</p>
 </div>
