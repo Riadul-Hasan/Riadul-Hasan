@@ -1,78 +1,78 @@
-div align="center" style="font-family: 'Poppins', sans-serif;">
-  <!-- Dynamic Banner with Gradient Overlay -->
-  <img src="https://github.com/Riadul-Hasan/Riadul-Hasan/assets/74038190/041b9eca-4d0e-4e3a-9ea2-3a0e1db1e4a3" alt="Riadul Hasan Banner" width="100%"/>
-  
-  <h1 align="center">Hi 👋, I'm Riadul Hasan</h1>
-  <h3 align="center">🚀 Full Stack Developer | JavaScript Enthusiast | Problem Solver</h3>
-  
-  <!-- Social Badges with Hover Effects -->
-  <div align="center" style="margin: 20px 0;">
-    <a href="https://linkedin.com/in/riad-hasan-6b954a2b8" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:riadb468@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email"/>
-    </a>
-    <a href="https://facebook.com/riad.hasan.39142072" target="_blank">
-      <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2" alt="Facebook"/>
-    </a>
-    <a href="https://your-portfolio.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139&color=FF7139" alt="Portfolio"/>
-    </a>
-  </div>
+<div align="center">
+
+<img src="https://github.com/Riadul-Hasan/Riadul-Hasan/assets/74038190/041b9eca-4d0e-4e3a-9ea2-3a0e1db1e4a3" alt="Riadul Hasan Banner" width="100%" />
+
+<h1>Hi 👋, I'm Riadul Hasan</h1>
+<h3>🚀 Full Stack Developer | JavaScript Enthusiast | Problem Solver</h3>
+
+---
+
+### 📫 Connect with Me
+
+<a href="https://linkedin.com/in/riad-hasan-6b954a2b8" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:riadb468@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://facebook.com/riad.hasan.39142072" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://your-portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+
 </div>
 
 ---
 
+## 🛠️ My Tech Stack
 
-<!-- CSS for Poppins -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-<style>
-  body {
-    font-family: 'Poppins', sans-serif !important;
-  }
-  h1, h2, h3, h4 {
-    font-family: 'Poppins', sans-serif !important;
-  }
-</style>
+### 💻 Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 
+### 🧠 Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat-square)
 
-## 🛠️ Professional Skills Matrix
-
-### Frontend Development
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,bootstrap" alt="Frontend Skills" />
-</div>
-
-### Backend & Databases
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Skills" />
-</div>
-
-### Tools & Platforms
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,netlify,figma,canva" alt="Tools" />
-</div>
-
-### Programming Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs" alt="Languages" />
-</div>
+### 🧑‍💻 Programming Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=flat-square)
 
 ---
 
 ## 🚀 Career Highlights
 
-- **4+ Years** of hands-on development experience
-- Built **15+ production-ready applications**
-- **98% Client Satisfaction** rate on freelance platforms
-- Specialize in **React & Node.js performance optimization**
-- Contributor to **3 open-source projects**
+- ✅ 4+ Years of hands-on development experience
+- 🌟 Built 15+ production-ready full-stack projects
+- 💼 98% Client Satisfaction on freelance platforms
+- 🔍 Focused on React & Node.js performance optimization
+- 🤝 Contributed to 3 open-source projects
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Riadul-Hasan&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" />
@@ -80,7 +80,7 @@ div align="center" style="font-family: 'Poppins', sans-serif;">
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riadul-Hasan&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riadul-Hasan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>
 
 ---
@@ -95,24 +95,25 @@ div align="center" style="font-family: 'Poppins', sans-serif;">
 
 ## 🔥 Featured Projects
 
-### 1. [E-Commerce Platform](https://github.com/Riadul-Hasan/ecommerce-platform)
+### 📦 [E-Commerce Platform](https://github.com/Riadul-Hasan/ecommerce-platform)
 ![Project Screenshot](https://via.placeholder.com/600x350/1e293b/ffffff?text=E-Commerce+Screenshot)
+
 **Stack:** MERN (MongoDB, Express, React, Node.js)  
-**Key Features:**
-- 🛒 Cart & Checkout System
-- 🔐 JWT Authentication
+**Features:**
+- 🛒 Cart & Checkout
+- 🔐 JWT Auth
 - 📊 Admin Dashboard
-- 💳 Stripe Integration
+- 💳 Stripe Payments
 
 ---
 
-### 2. [Task Management App](https://github.com/Riadul-Hasan/task-manager)
+### ✅ [Task Management App](https://github.com/Riadul-Hasan/task-manager)
 **Stack:** React, Firebase, Material UI  
 **Live Demo:** [taskapp.demo.com](https://taskapp.demo.com)
 
 ---
 
-### 3. [Social Media Dashboard](https://github.com/Riadul-Hasan/social-dashboard)
+### 📊 [Social Media Dashboard](https://github.com/Riadul-Hasan/social-dashboard)
 **Stack:** Next.js, TypeScript, Tailwind CSS  
 **Live Demo:** [social.demo.com](https://social.demo.com)
 
@@ -120,9 +121,8 @@ div align="center" style="font-family: 'Poppins', sans-serif;">
 
 ## 💡 Development Philosophy
 
-> "Clean code is not written by following rules, 
-> it's written by experience and constant refinement."  
-> — *Adapted from Robert C. Martin*
+> _"Clean code is not written by following rules, it's written by experience and constant refinement."_  
+> — *Inspired by Robert C. Martin*
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Riadul-Hasan&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
