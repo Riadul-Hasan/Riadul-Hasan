@@ -1,12 +1,12 @@
 <div align="center">
-![Banner Image](https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg?ga=GA1.1.1037803934.1745168127&semt=ais_items_boosted&w=740)
+![Banner Image](https://images.unsplash.com/photo-1639762681057-408e52192e55?q=80&w=2232&auto=format&fit=crop)
 
-<h1>Riadul Hasan</h1>
-  <h3>📍 Dhaka, Bangladesh | 📧 riadb468@gmail.com</h3>
+<h1 align="center">Riadul Hasan</h1>
+<h3 align="center">📍 Dhaka, Bangladesh | 📧 riadb468@gmail.com</h3>
 
 ---
 
-"Passionate Full-Stack Developer 🚀 | JavaScript & MERN Stack Specialist | Turning Ideas into Scalable Solutions
+> "Passionate Full-Stack Developer 🚀 | JavaScript & MERN Stack Specialist | Turning Ideas into Scalable Solutions"
 
 ### 📫 Connect with Me
 
