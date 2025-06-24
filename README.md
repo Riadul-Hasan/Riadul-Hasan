@@ -7,29 +7,13 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center" style="background: linear-gradient(to right, #f6f8fa, #e9ecef); padding: 2rem; border-radius: 12px; border-left: 4px solid #3a86ff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-  <span style="font-size: 1.1rem; color: #2d3748;">Passionate about building <strong>scalable solutions</strong> that bridge technology and real-world needs</span><br><br>
-
-  <div style="background: white; padding: 1.5rem; border-radius: 8px; text-align: left; max-width: 600px; margin: 0 auto;">
-    <div style="display: flex; align-items: center; margin-bottom: 12px;">
-      <div style="width: 8px; height: 8px; background: #3a86ff; border-radius: 50%; margin-right: 12px;"></div>
-      <span style="font-weight: 500;">Mastering <span style="color: #3a86ff;">Next.js</span> and <span style="color: #3178c6;">TypeScript</span> for enterprise applications</span>
-    </div>
-    
-    <div style="display: flex; align-items: center; margin-bottom: 12px;">
-      <div style="width: 8px; height: 8px; background: #8338ec; border-radius: 50%; margin-right: 12px;"></div>
-      <span style="font-weight: 500;">Exploring <span style="color: #8338ec;">AI integration</span> for intelligent web experiences</span>
-    </div>
-    
-    <div style="display: flex; align-items: center;">
-      <div style="width: 8px; height: 8px; background: #ff006e; border-radius: 50%; margin-right: 12px;"></div>
-      <span style="font-weight: 500;">Contributing to <span style="color: #ff006e;">open-source</span> projects with real impact</span>
-    </div>
-  </div>
-
+<p align="center">
+  <strong>Full-Stack Developer</strong> building scalable web solutions<br><br>
+  
+  • 🚀 Mastering Next.js & TypeScript<br>
+  • 🤖 Exploring AI-powered web apps<br>
+  • 💡 Contributing to open-source
 </p>
-
 
 ## 📫 Connect with Me
 
