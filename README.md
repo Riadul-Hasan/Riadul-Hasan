@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg" alt="Banner" width="100%"/>
+
 
 <h1 align="center">Riadul Hasan</h1>
 <h3 align="center">📍 Dhaka, Bangladesh | 📧 riadb468@gmail.com</h3>
@@ -26,6 +26,8 @@
 </div>
 
 ---
+
+  <img src="https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg" alt="Banner" width="100%"/>
 
 ## 🛠️ My Tech Stack
 
@@ -57,6 +59,8 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat-square)
 
 ### 🧑‍💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=flat-square)
@@ -65,9 +69,9 @@
 
 ## 🚀 Career Highlights
 
-- ✅ 4+ Years of hands-on development experience
+- ✅ 2+ Years of hands-on development experience
 - 🌟 Built 15+ production-ready full-stack projects
-- 💼 98% Client Satisfaction on freelance platforms
+- 💼 98% Client Satisfaction on freelance platforms(Fiverr)
 - 🔍 Focused on React & Node.js performance optimization
 - 🤝 Contributed to 3 open-source projects
 
@@ -108,7 +112,7 @@
 
 ---
 
-### ✅ [Task Management App](https://github.com/Riadul-Hasan/task-manager)
+### ✅ [English Janala](https://github.com/Riadul-Hasan/English-Janala)
 **Stack:** React, Firebase, Material UI  
 **Live Demo:** [taskapp.demo.com](https://taskapp.demo.com)
 
