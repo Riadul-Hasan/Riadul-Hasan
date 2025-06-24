@@ -1,5 +1,5 @@
 <div align="center">
-![Banner Image](https://images.unsplash.com/photo-1639762681057-408e52192e55?q=80&w=2232&auto=format&fit=crop)
+  <img src="https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg" alt="Banner" width="100%"/>
 
 <h1 align="center">Riadul Hasan</h1>
 <h3 align="center">📍 Dhaka, Bangladesh | 📧 riadb468@gmail.com</h3>
