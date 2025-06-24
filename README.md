@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Riadul Hasan</h1>
+<h1 align="center">Riadul Hasan Riad</h1>
 <h3 align="center">📍 Dhaka, Bangladesh | 📧 riadb468@gmail.com</h3>
 
 ---
