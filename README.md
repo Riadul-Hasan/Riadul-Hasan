@@ -108,8 +108,8 @@
 
 ## 🔥 Featured Projects
 
-### 📦 [E-Commerce Platform](https://github.com/Riadul-Hasan/ecommerce-platform)
-![Project Screenshot](https://via.placeholder.com/600x350/1e293b/ffffff?text=E-Commerce+Screenshot)
+### 📦 [Gardenify With Authentication](https://github.com/Riadul-Hasan/Gardenify)
+![Project Screenshot](https://i.ibb.co/whhwVvDZ/ss.png)
 
 **Stack:** MERN (MongoDB, Express, React, Node.js)  
 **Features:**
