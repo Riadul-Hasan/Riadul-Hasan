@@ -27,7 +27,7 @@
 
 ---
 
-  <img src="https://www.canva.com/design/DAGrTs1mm6I/ganngzB5P4kH4ZQ5lqm-jw/view?utm_content=DAGrTs1mm6I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc4e2930fcf"/>
+  <img src="https://i.ibb.co/LDBFhZWz/Black-And-Grey-Professional-Technology-Linked-In-Banner.png"/>
 
 ## 🛠️ My Tech Stack
 
