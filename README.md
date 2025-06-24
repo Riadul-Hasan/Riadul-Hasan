@@ -1,12 +1,21 @@
 <div align="center">
 
-
 <h1 align="center">Riadul Hasan</h1>
 <h3 align="center">📍 Dhaka, Bangladesh | 📧 riadb468@gmail.com</h3>
 
 ---
 
-> "Passionate Full-Stack Developer 🚀 | JavaScript & MERN Stack Specialist | Turning Ideas into Scalable Solutions"
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  Passionate Full-Stack Developer with expertise in JavaScript and MERN stack.<br>
+  Dedicated to building scalable, efficient web applications that solve real-world problems.<br>
+  Constantly learning and adapting to new technologies in the ever-evolving web landscape.
+</p>
+
+---
+
+> "Turning ideas into reality through clean code and innovative solutions 🚀"
 
 ### 📫 Connect with Me
 
