@@ -8,12 +8,14 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> building scalable web solutions<br><br>
-  
-  • 🚀 Mastering Next.js & TypeScript<br>
-  • 🤖 Exploring AI-powered web apps<br>
-  • 💡 Contributing to open-source
+  Passionate and dedicated to building scalable, efficient web applications that solve real-world problems.<br>
+
+  **🔮 Running Activities:**
+ **Mastering** advanced Next.js and TypeScript patterns for enterprise-grade applications
+ **Exploring** AI integration in web development to build smarter user experiences
+ **Contributing** to open-source projects that solve real-world development challenges
 </p>
+
 
 ## 📫 Connect with Me
 
