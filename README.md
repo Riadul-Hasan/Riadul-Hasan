@@ -3,8 +3,7 @@
 # Hi there, I'm [Your Name] 👋  
 ### Web Developer | [Your Location] | [your.email@example.com]
 
-![Banner Image](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)  
-*(Replace with actual banner image URL)*
+![Banner Image](https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg?ga=GA1.1.1037803934.1745168127&semt=ais_items_boosted&w=740)
 
 ---
 
