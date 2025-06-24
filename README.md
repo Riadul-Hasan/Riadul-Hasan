@@ -13,9 +13,7 @@
   Constantly learning and adapting to new technologies in the ever-evolving web landscape.
 </p>
 
----
 
-> "Turning ideas into reality through clean code and innovative solutions 🚀"
 
 ### 📫 Connect with Me
 
