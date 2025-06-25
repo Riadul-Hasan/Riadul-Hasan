@@ -1,4 +1,5 @@
 <div align="center">
+ <img src="https://i.ibb.co/LDBFhZWz/Black-And-Grey-Professional-Technology-Linked-In-Banner.png"/>
 
 <div align="center">
   <h1 style="margin-bottom: 0;">Riadul Hasan Riad</h1>
@@ -40,8 +41,7 @@
 
 ---
 
-  <img src="https://i.ibb.co/LDBFhZWz/Black-And-Grey-Professional-Technology-Linked-In-Banner.png"/>
-
+ 
 ## 🛠️ My Tech Stack
 
 ### 💻 Frontend
