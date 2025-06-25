@@ -1,7 +1,9 @@
 <div align="center">
+<div align="center">
+  <h1 style="margin-bottom: 0;">Riadul Hasan Riad</h1>
+  <h4 style="margin-top: 0;">MERN Stack Developer</h4>
+</div>
 
-<h1 align="center">Riadul Hasan Riad</h1>
-<h4 align="center">MERN Stack Developer</h4>
 <h3 align="center">📍 Dhaka, Bangladesh | 📧 riadb468@gmail.com</h3>
 
 ---
