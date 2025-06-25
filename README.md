@@ -96,13 +96,10 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Riadul-Hasan&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Riadul-Hasan&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Riadul-Hasan&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" /> -->
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riadul-Hasan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css,scss" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riadul-Hasan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css,scss" alt="Top Languages" />
-<!--   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riadul-Hasan&theme=radical" alt="Repos by Language" /> -->
-</div>
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riadul-Hasan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
