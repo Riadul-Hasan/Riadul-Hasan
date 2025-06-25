@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://i.ibb.co/LDBFhZWz/Black-And-Grey-Professional-Technology-Linked-In-Banner.png"/>
+ <img src="https://i.postimg.cc/ZqRT2dDn/mern.png"/>
 
 
 <div align="center">
